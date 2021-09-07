@@ -1,0 +1,17 @@
+sudo apt update
+
+install python
+
+sudo apt install python3
+
+install python pip
+
+sudo apt install python3-pip
+
+install django
+
+pip install django
+
+run project
+
+python manage.py runserver
